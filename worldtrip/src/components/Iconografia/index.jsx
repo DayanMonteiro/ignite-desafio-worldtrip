@@ -8,7 +8,7 @@ export default function Iconografias() {
       w="100%"
       justify="space-between"
       align="center"
-      mt={["10", "32"]}
+      mt={["10", "28"]}
       mx="auto"
       maxW="1160px"
       flexWrap="wrap"
